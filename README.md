@@ -4,4 +4,10 @@ I recently ran into an issue on Docker Swarm and did have backups in place for m
 
 All the variables used are listed in the file itself. 
 
-Enjoy! 
+Enjoy!
+
+# How?
+
+- Clone this down, copy the shell script to a directory of your choice and make sure it has executable rights with `chmod +x`. 
+- Edit the variables inside the file to reflect your own environment. 
+- Edit crontab to run this shell script at a time convenient to you.
