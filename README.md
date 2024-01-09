@@ -8,6 +8,7 @@ Enjoy!
 
 # How?
 
+To be done on each Docker Swarm node where your apps might end up running: 
 - Clone this down, copy the shell script to a directory of your choice and make sure it has executable rights with `chmod +x`. 
 - Edit the variables inside the file to reflect your own environment. 
 - Edit crontab to run this shell script at a time convenient to you.
